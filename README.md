@@ -1,5 +1,6 @@
 repResearchPA1
 ==============
 
-Look for ./RCode/PA1_template.Rmd
-a
+For Rmd look ./RCode/PA1_template.Rmd
+
+knit2html() outputs are stored in the parent directory
